@@ -1,0 +1,5 @@
+Qual e o terceiro planeta do sistema solar?;Mercurio;Terra;Marte;Jupiter;B
+Como se chama a nossa galaxia?;Via Lactea;Centaurus A;Ana de Cetus;Andromeda;A
+Qual destes e um satelite natural de Jupiter?;Lua;Titan;Europa;Dione;C
+Qual das seguintes unidades de comprimento e usada para distancias astronomicas?;Quilometro;Milha;Legua;Ano-luz;D
+Quantos planetas existem no Sistema Solar a data de dezembro de 2020?;8;7;9;10;A
